@@ -13,6 +13,7 @@ Meeting open at 5 pm, room P-263.
 * Officer Elections
 
 #### Plans for Ruin Project
+* Scope has changed to add more "dungeon devling"
 * Deadline: 4/25/2020
 * Production: Gama Dev's itch.io page
 
