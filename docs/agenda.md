@@ -1,5 +1,5 @@
 # GAMA Dev Meeting
-### Tuesday, January 14th 2020 : 5PM - 6PM : P-263
+### Tuesday, January 21st 2020 : 5PM - 6PM : P-263
 
 ## News
  * Use Github
